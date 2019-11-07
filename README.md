@@ -1,2 +1,2 @@
-# ssl-manager.sh
+# ssl-manager
 configurar puertos ssl
